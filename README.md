@@ -1,50 +1,49 @@
-  <h1 class="center">سلام! من سعید هستم 👋</h1>
+<h1 align="center">سلام!  سعید هستم 👋</h1>
 
-  <p class="center">
-    توسعه‌دهنده‌ی وب با تمرکز روی Laravel، امنیت و طراحی تجربه کاربری  
-    <br>
-  </p>
+<p align="center">
+  توسعه‌دهنده‌ی Full-Stack، عاشق یادگیری و ساختن ابزارهای کاربردی برای آدم‌ها 💡
+</p>
 
-  <hr>
+---
 
-  <h2>🧩 تخصص‌ها</h2>
-  <ul>
-    <li>PHP, Laravel, Livewire, Vue.js, TailwindCSS</li>
-    <li>Docker, Git, REST APIs, MySQL</li>
-    <li>طراحی داشبورد و سیستم‌های مدیریتی کاربردی</li>
-    <li>علاقه‌مند به امنیت در اپلیکیشن‌های موبایل و وب</li>
-  </ul>
+### 👨‍💻 درباره‌ی من:
 
-  <h2>📌 پروژه‌ها</h2>
-  <table>
-    <tr>
-      <th>پروژه</th>
-      <th>توضیح</th>
-    </tr>
-    <tr>
-      <td>💪 مدیریت باشگاه</td>
-      <td>سیستم کامل ثبت‌نام، نوبت‌دهی، حضور و گزارش‌ها</td>
-    </tr>
-    <tr>
-      <td>💅 مدیریت سالن زیبایی</td>
-      <td>سیستم اتوماسیون با پیامک، نوبت‌دهی و گزارش‌های مالی</td>
-    </tr>
-    <tr>
-      <td>🔐 اپ امنیت موبایل</td>
-      <td>تشخیص رفتار مشکوک با یادگیری ماشین (پایان‌نامه)</td>
-    </tr>
-  </table>
+- 🔐 علاقه‌مند به حوزه امنیت، مخصوصاً امنیت موبایل
+- 🛠️ تخصص در Laravel، Livewire، Vue، Docker، Git و MySQL
+- 🧠 همیشه دنبال یادگیری چیزهای جدید و چالش‌های برنامه‌نویسی
 
-  <h2>📊 آمار گیت‌هاب</h2>
-  <div class="stats center">
-    <img src="https://github-readme-stats.vercel.app/api?username=saeedmohseni&show_icons=true&theme=default" alt="GitHub Stats" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedmohseni&layout=compact&theme=default" alt="Top Languages" />
-  </div>
+---
 
-  <div class="quote">
-    «موفقیت، حاصل تداوم علاقه در مسیر درست است.»
-  </div>
+### 🚀 مهارت‌ها:
 
-</body>
-</html>
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel)
+![Livewire](https://img.shields.io/badge/-Livewire-blueviolet?style=flat)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?style=flat&logo=tailwind-css)
+
+---
+
+### 📊 آمار گیت‌هاب من:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saeedmohseni&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedmohseni&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 راه‌های ارتباطی:
+
+- 🌐 وب‌سایت شخصی: [درحال ساخت...]
+- 📧 ایمیل: -
+- 💬 تلگرام: -
+
+---
+
+<p align="center">💙 ممنون که به پروفایل من سر زدی 💙</p>
